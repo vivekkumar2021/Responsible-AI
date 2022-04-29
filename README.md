@@ -15,10 +15,10 @@ To resolve this issue, we have Responsible AI. It is a single glass pane bringin
 ## Usage
 We will assess income level predictions on the adult census dataset where the target variable is "income". 
 
-Step 1: Import all the required libraries and define split and clean data pipelines. 
-Step 2: Load the dataset and classify different types of features.
-Step 3: Create Model and Data Insights.
-Step 4: Create a Responsible AI Dashboard.
+* **Step 1:** Import all the required libraries and define split and clean data pipelines. 
+* **Step 2:** Load the dataset and classify different types of features.
+* **Step 3:** Create Model and Data Insights.
+* **Step 4:** Create a Responsible AI Dashboard.
 
 
 
