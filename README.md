@@ -20,5 +20,5 @@ We will assess income level predictions on the adult census dataset where the ta
 * **Step 3:** Create Model and Data Insights.
 * **Step 4:** Create a Responsible AI Dashboard.
 
-
+To get indepth details about Responsible AI concepts, you can follow my blog: https://www.predictionoid.com/
 
